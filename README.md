@@ -1,18 +1,9 @@
 # 📱🎓 Marks Appeal System
 
 A **Flask-based USSD and Web Admin Portal** that enables students to view and appeal academic marks via USSD, and allows administrators to manage these appeals through a secure web portal.
-### GROUP MEMBERS:
+### RegNo:
 ```
-21RP05800
-22RP00164
-22RP00282
-22RP00535
 22RP00789
-22RP00751
-22RP01008
-22RP01016
-22RP00730
-22RP01442
 ```
 ### USAGE:
 ```
